@@ -1371,6 +1371,60 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "wojexe",
+      "name": "wojexe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21208490?v=4",
+      "profile": "https://wojexe.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Tostapunk",
+      "name": "Mattia Schiavon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25140297?v=4",
+      "profile": "https://github.com/Tostapunk",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "PrettyWood",
+      "name": "Eric Jolibois",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18406791?v=4",
+      "profile": "http://toucantoco.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "EdwinChang24",
+      "name": "Edwin Chang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88263098?v=4",
+      "profile": "http://edwinchang.vercel.app",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "saikatdas0790",
+      "name": "Saikat Das",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7412443?v=4",
+      "profile": "https://saikat.dev/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "thatlittleboy",
+      "name": "Jeremy Goh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30731072?v=4",
+      "profile": "https://github.com/thatlittleboy",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 8,

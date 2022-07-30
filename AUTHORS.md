@@ -195,6 +195,14 @@ authors.
     <td align="center"><a href="https://jamesabromley.wordpress.com/"><img src="https://avatars.githubusercontent.com/u/2474334?v=4?s=100" width="100px;" alt=""/><br /><sub><b>James Bromley</b></sub></a><br /><a href="#content-jayber" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/swhiteCQC"><img src="https://avatars.githubusercontent.com/u/77438466?v=4?s=100" width="100px;" alt=""/><br /><sub><b>swhiteCQC</b></sub></a><br /><a href="#content-swhiteCQC" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/neilpate"><img src="https://avatars.githubusercontent.com/u/7802334?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Neil Pate</b></sub></a><br /><a href="#content-neilpate" title="Content">🖋</a></td>
+    <td align="center"><a href="https://wojexe.com"><img src="https://avatars.githubusercontent.com/u/21208490?v=4?s=100" width="100px;" alt=""/><br /><sub><b>wojexe</b></sub></a><br /><a href="#content-wojexe" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/Tostapunk"><img src="https://avatars.githubusercontent.com/u/25140297?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mattia Schiavon</b></sub></a><br /><a href="#content-Tostapunk" title="Content">🖋</a></td>
+    <td align="center"><a href="http://toucantoco.com"><img src="https://avatars.githubusercontent.com/u/18406791?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Eric Jolibois</b></sub></a><br /><a href="#content-PrettyWood" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://edwinchang.vercel.app"><img src="https://avatars.githubusercontent.com/u/88263098?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Edwin Chang</b></sub></a><br /><a href="#content-EdwinChang24" title="Content">🖋</a></td>
+    <td align="center"><a href="https://saikat.dev/"><img src="https://avatars.githubusercontent.com/u/7412443?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Saikat Das</b></sub></a><br /><a href="#content-saikatdas0790" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/thatlittleboy"><img src="https://avatars.githubusercontent.com/u/30731072?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jeremy Goh</b></sub></a><br /><a href="#content-thatlittleboy" title="Content">🖋</a></td>
   </tr>
 </table>
 
