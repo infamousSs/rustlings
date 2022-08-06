@@ -13,9 +13,6 @@ struct Color {
     green: u8,
     blue: u8,
 }
-trait RGB {
-    fn is_rgb(val: i16) -> Result<i16, IntoColorError>;
-}
 
 // We will use this error type for these `TryFrom` conversions.
 #[derive(Debug, PartialEq)]
@@ -50,15 +47,7 @@ impl TryFrom<(i16, i16, i16)> for Color {
 impl TryFrom<[i16; 3]> for Color {
     type Error = IntoColorError;
     fn try_from(arr: [i16; 3]) -> Result<Self, Self::Error> {
-        let len = arr.len();
-        if len <= 0 || len > 3 {
-            return Err(Self::Error::BadLen);
-        }
-        let red = u8::try_from(arr[0]).map_err(|err| Self::Error::IntConversion)?;
-        let green = u8::try_from(arr[1]).map_err(|err| Self::Error::IntConversion)?;
-        let blue = u8::try_from(arr[2]).map_err(|err| Self::Error::IntConversion)?;
-
-        Ok(Color { red, green, blue })
+        Color::try_from((arr[0], arr[1], arr[2]))
     }
 }
 
@@ -69,11 +58,7 @@ impl TryFrom<&[i16]> for Color {
         if arr.len() != 3 {
             return Err(Self::Error::BadLen);
         }
-        let red = u8::try_from(arr[0]).map_err(|err| Self::Error::IntConversion)?;
-        let green = u8::try_from(arr[1]).map_err(|err| Self::Error::IntConversion)?;
-        let blue = u8::try_from(arr[2]).map_err(|err| Self::Error::IntConversion)?;
-
-        Ok(Color { red, green, blue })
+        Color::try_from((arr[0], arr[1], arr[2]))
     }
 }
 
